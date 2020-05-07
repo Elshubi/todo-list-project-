@@ -1,0 +1,64 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+
+.headcontainer{
+        background-image: url('./img/Background.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 7em;
+        width: 50%;
+        margin: 1em;
+        margin-top: 0px;
+        text-align: center;
+        color: sandybrown;
+        position: relative;
+        left: 25%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 2em;
+}
+
+h4{
+
+    position: relative;
+    left: -12%;
+    top: 40%;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: slategray;
+    width: 100%;
+}
+
+body{
+    background-color:black
+}
+
+.datebar{
+    width:100%;
+    background-color: slategray;
+    color: white;
+    margin: 0%;
+    padding: 0%;
+    text-align: right;
+    font-size: 2em;
+}
+
+p{
+    background-color: aqua;
+    width: 120%;;
+    margin: 3px;
+    position: relative;
+    left: 10%;
+    text-align: left;
+}
+
+p:hover {
+    background-color: red;
+}
+
+.extratext{
+    font-size: 0.5em;
+}
